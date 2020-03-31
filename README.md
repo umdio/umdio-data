@@ -1,2 +1,10 @@
 # umdio-data
-Data for umdio that can't be directly scraped
+Most of the non-live data for umd.io
+
+Contains
+- Buildings
+- Old semesters
+
+To add:
+- Bus
+- Majors
